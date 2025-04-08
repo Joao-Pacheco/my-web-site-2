@@ -3,7 +3,7 @@ const EducationSection = () => {
     {
       degree: "Bachelor of Computer Science",
       institution: "Universidade Paulista - UNIP",
-      period: "2017 - 2020",
+      period: "2017 - 2021",
       details: [
         "Completed core studies in algorithms, data structures, and software engineering.",
         "Developed academic projects using Java, C, and web technologies.",
